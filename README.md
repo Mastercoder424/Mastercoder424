@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **MLH and GSoc**
+- 👯 I’m looking to collaborate on **MLH and**
 
 - 📝 I regularly write articles on [devmaster2.hashnode.dev](devmaster2.hashnode.dev)
 
