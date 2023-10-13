@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastercoder424" alt="mastercoder424" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React and Solidity**
 
 - 👯 I’m looking to collaborate on **MLH and Open Source Projects**
 
